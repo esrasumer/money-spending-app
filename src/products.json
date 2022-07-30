@@ -1,0 +1,55 @@
+[
+    {
+        "id":1,
+        "title":"Sakız",
+        "price":5,
+        "image":"https://reimg-carrefour.mncdn.com/mnresize/600/600/productimage/30082462/30082462_0_MC/8796797599794_1555415441220.jpg"
+    },
+    {
+        "id":2,
+        "title":"Kola",
+        "price":20,
+        "image":"https://cdn.dsmcdn.com/ty28/product/media/images/20201127/18/33097970/58233896/1/1_org_zoom.jpg"
+
+    },  {
+        "id":3,
+        "title":"Ayakakbı",
+        "price":400,
+        "image":"https://img-s1.onedio.com/id-6201513fac5696324fcb8bac/rev-0/w-620/f-jpg/s-18ea1eb8c0a1c29f230d06bf243570b019bed7d8.jpg"
+
+    },
+    {
+        "id":4,
+        "title":"Araba",
+        "price":1000000,
+        "image":"https://cdn.webtekno.com/media/cache/content_detail_v2/article/85397/her-araba-tutkununun-hayallerini-susleyen-15-ates-pahasi-araba-1581248144.jpg"
+
+    },  {
+        "id":5,
+        "title":"Bilgisayar",
+        "price":30000,
+        "image":"https://cdn.cimri.io/image/240x240/monster-tulpar-t5-v203-intel-core-i7-11800h-16-gb-ram-512-gb-m2-ssd-rtx3060-max-performance-6-gb-156-mat-led-fhd-144-hz-dizustu-bilgisayar_616098239.jpg"
+
+    },
+    {
+        "id":6,
+        "title":"Twitter",
+        "price":44000000000,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png"
+
+    },
+    {
+        "id":7,
+        "title":"Villa",
+        "price":20000000,
+        "image":"https://icdn.turkiyegazetesi.com.tr/images/haberler/2022_05/buyuk/ucuz-tatilin-adresi-otel-yerine-villa-1651447282.jpg"
+
+    },
+    {
+        "id":8,
+        "title":"Gemi",
+        "price":300000000,
+        "image":"https://i4.hurimg.com/i/hurriyet/75/750x422/626b80904e3fe10ed081d25d.jpg"
+
+    }
+]
