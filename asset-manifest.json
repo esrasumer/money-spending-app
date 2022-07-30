@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.e7885da9.css",
-    "main.js": "/static/js/main.5723156a.js",
-    "index.html": "/index.html",
-    "main.e7885da9.css.map": "/static/css/main.e7885da9.css.map",
-    "main.5723156a.js.map": "/static/js/main.5723156a.js.map"
+    "main.css": "/money-spending-app/static/css/main.e7885da9.css",
+    "main.js": "/money-spending-app/static/js/main.5723156a.js",
+    "index.html": "/money-spending-app/index.html",
+    "main.e7885da9.css.map": "/money-spending-app/static/css/main.e7885da9.css.map",
+    "main.5723156a.js.map": "/money-spending-app/static/js/main.5723156a.js.map"
   },
   "entrypoints": [
     "static/css/main.e7885da9.css",
