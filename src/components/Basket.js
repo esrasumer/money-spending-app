@@ -9,9 +9,9 @@ function Basket({ basket, products, total, resetBasket }) {
       ))}
 
       <div className='total'>
-        Toplam: ${total}
+        Total: ${total}
       </div>
-      <button className='basket-reset-btn' onClick={resetBasket}>Sepeti Sıfırla</button>
+      <button className='basket-reset-btn' onClick={resetBasket}>Reset Card</button>
 
     </div>
   )
